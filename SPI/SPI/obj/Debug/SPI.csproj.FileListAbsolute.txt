@@ -1,0 +1,17 @@
+C:\Users\furkan\source\repos\SPI\SPI\obj\Debug\SPI.csprojAssemblyReference.cache
+C:\Users\furkan\source\repos\SPI\SPI\obj\Debug\SPI.Form1.resources
+C:\Users\furkan\source\repos\SPI\SPI\obj\Debug\SPI.Properties.Resources.resources
+C:\Users\furkan\source\repos\SPI\SPI\obj\Debug\SPI.csproj.GenerateResource.cache
+C:\Users\furkan\source\repos\SPI\SPI\obj\Debug\SPI.csproj.CoreCompileInputs.cache
+C:\Users\furkan\source\repos\SPI\SPI\bin\Debug\SPI.exe.config
+C:\Users\furkan\source\repos\SPI\SPI\bin\Debug\SPI.exe
+C:\Users\furkan\source\repos\SPI\SPI\bin\Debug\SPI.pdb
+C:\Users\furkan\source\repos\SPI\SPI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\furkan\source\repos\SPI\SPI\bin\Debug\AForge.Video.dll
+C:\Users\furkan\source\repos\SPI\SPI\bin\Debug\AForge.dll
+C:\Users\furkan\source\repos\SPI\SPI\bin\Debug\AForge.Video.xml
+C:\Users\furkan\source\repos\SPI\SPI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\furkan\source\repos\SPI\SPI\bin\Debug\AForge.xml
+C:\Users\furkan\source\repos\SPI\SPI\obj\Debug\SPI.csproj.CopyComplete
+C:\Users\furkan\source\repos\SPI\SPI\obj\Debug\SPI.exe
+C:\Users\furkan\source\repos\SPI\SPI\obj\Debug\SPI.pdb
